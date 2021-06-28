@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bamboo-magnet-318107",
+  "private_key_id": "4e827519748b1092e0c1a13330cda3010f445674",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTfiaGpy6svFMb\nfAofcVVOb6SVv3NZGgTso1/LTqBwUiwZf07AS3DaQTaGNSMOD1Iq6XywiJpiXJu/\nWQGx07V4QoSIFi3HJMLwc/R8sPRwBLVRb8ivlJVd5tvZ/ZvWiZVXy5qvSlr3Y7BN\naY8Xqbh46wa4p6t+eOV4nVcy1MLNQuif3Nhv73sjEEeTQNv3q3G//1vM+/lT9sbb\ngUGYlZWYZ4RARW93R8ep6rp8kO4SJpOIDoOPYEG7QATdW8pMUVvqxEy/3JnFvr5C\nJRDTSxzX4WBkoEwGM0DeDsCWFYAKi+zApDjp63bSakqxTg/ferEgZs0kDfJsIzX+\n6aO9J9kDAgMBAAECggEAEFvUCxLyNtTBGlHKJPhNgAsa7pmoQgWEQ/jPhahSsX0z\ns0pETPNbxiFTL6nSGbDyVJxxU3p7NmtTbPLYIMXnS+TYzT051kDKDEsCyW0DrNmg\n1geiHcigPnooqpzEfZQ58l28lNztiksja+/yyoBCW8r5g7Pjw1Mbuc0oYD9qhxh4\nXj2YDBr4/8ES+Rr6hn7s+N4qJ6GgjxzN2Qr9cn12ebDeiOz8QhqlT9AVkGzerMFV\nI3XXcMUy9OEM63zEq/xOZEXzl+2DLcn3miLZY9pDX+pNkzSjVvtIW4MqfWZ2FKbY\nTBG8UkN0lMbgvT1MzYIK6tqXlUDnhzWjiSVcudqzAQKBgQDNFF8c9mUtLAugCaDE\n+LxsduvhPayT2mXdUdY2IN7mxLJKzIIFgx1U0ZUe6EsuBiM5Ang9YHpmUEcUQtvx\nnnq1rc6pEXvQK1suo2i4qjNQ9VgIG1ZutORH7Vdrhj/AUyM/9+v5lqdDXhJCQodb\nk23eqBab0H6x1g04Xa7YyjUSAwKBgQC4HVhy6roiSpoIeJ9JdCBK/yib+NnjSSmd\n4x419zuGF0lgV05H/mf5Gc3WZnR+awWF9ziqeghLDBGwLNa/yzq44jrC1iRuLRH/\ne7ZYMcrgVbyruy9HT3eIWNJ/Z4IWUM0md94oj+pPcf3UvTIJwyvsS382SrVWYfrG\niZh0ucLtAQKBgHeEcdH9PwXOb4/7THi+xYEo5VtFiDg6xbbwJLky+vTemVHCUdxI\nh2WRJyj2FCpkZU6qQ8zxVyQdkO8b7/amd7k96/zYNaIiQmex0Cwe9P0vnvhKhlrK\njWflyFbfzHOXgCmdoSa6SAyY3GdFQoF6MEPdDiAMqGmX5+h7oJSzc65lAoGBAImx\ngLWo8H22103gkBgKHiCYhVFooeOGkvY+phhsBvs4rSq9AJF9JVs5viRLSXJGLcJL\n6vgr/cnKg+wDDLQxlIAyyQlvx50SXfR5HB0HWBfAZzLz8d7eAqJY80xPKA3ybgsH\n+IDTaMPzl4cj26lLaqz0pXYAF3A8JKWYwAkD6FEBAoGAFtQe65mpi0u46cnYYKfh\nVOVaLo2qbPWSqTdinwjaP10OmnivG+2IxAgImbdmvmLnfQnafbddk5e2RpTbC1cX\nv2tk05XnDd6KOShL5xH8ivTwbGqBym5m11EU6ElZAz0U9C1OZO+6wnZbN/qcF1rs\ni/IQhIo+/8iCqIHjvT+ya+w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-mp6mr5laz04-8cmu79eyvnn98q@bamboo-magnet-318107.iam.gserviceaccount.com",
+  "client_id": "111630580212903717427",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-mp6mr5laz04-8cmu79eyvnn98q%40bamboo-magnet-318107.iam.gserviceaccount.com"
+}
